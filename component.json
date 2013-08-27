@@ -1,0 +1,7 @@
+{
+  "name": "sinon",
+  "repo": "ianstormtaylor/sinon",
+  "version": "1.7.3",
+  "scripts": ["lib/sinon.js"],
+  "main": "lib/sinon.js"
+}
