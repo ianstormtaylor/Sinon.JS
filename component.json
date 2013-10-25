@@ -3,6 +3,7 @@
   "repo": "ianstormtaylor/sinon",
   "version": "1.7.3",
   "scripts": [
+    "lib/index.js",
     "lib/sinon.js",
     "lib/sinon/assert.js",
     "lib/sinon/call.js",
@@ -22,5 +23,4 @@
     "lib/sinon/util/timers_ie.js",
     "lib/sinon/util/xhr_ie.js"
   ],
-  "main": "lib/sinon.js"
 }
