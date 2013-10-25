@@ -22,5 +22,5 @@
     "lib/sinon/util/fake_xml_http_request.js",
     "lib/sinon/util/timers_ie.js",
     "lib/sinon/util/xhr_ie.js"
-  ],
+  ]
 }
